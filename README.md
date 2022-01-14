@@ -5,5 +5,5 @@
 ## Getting Started
 
 :pizza: :hamburger: :astonished:
-![UI Screenshot](/assets/image.png)
+![UI Screenshot](/assets/image.png =100x)
 
