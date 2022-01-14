@@ -1,6 +1,9 @@
-# UI Design Challange S01E01
+# UI Design Challenge S01E01
 
-A New Flutte for Dribble UI Project
+:white_check_mark: :white_check_mark: A New Flutter for Dribble UI Project
 
 ## Getting Started
+
+:pizza: :hamburger: :astonished:
+![UI Screenshot](/assets/image.png)
 
