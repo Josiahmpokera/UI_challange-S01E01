@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-:pizza: :hamburger: :astonished:
 ![UI Screenshot](/assets/image.png)
+:pizza: :hamburger: :astonished:  :fire: :fire:
 
 ##The Challenge is continue, and we are going to clone every giant social media.
 
